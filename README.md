@@ -24,3 +24,6 @@ Tableau Public – for visualization and dashboard creation
 Microsoft Excel / CSV – for dataset
 
 GitHub – for project hosting
+
+Tableau public link :
+https://public.tableau.com/app/profile/srikanth.uppula/viz/NetflixDashboardFINAL/Netflix#2
