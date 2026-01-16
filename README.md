@@ -29,4 +29,4 @@ Tableau public link :
 https://public.tableau.com/app/profile/srikanth.uppula/viz/NetflixDashboardFINAL/Netflix#2
 
 Dashboard Image :
-![Netflix Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/Sreekanth-070/Netflix-Data-Analysis-Tableau-Dashboard/blob/main/Screenshot2026-01-14at10.06.11PM1.jpg))
+![Dashboard Preview](https://github.com/Sreekanth-070/Netflix-Data-Analysis-Tableau-Dashboard/blob/main/Screenshot2026-01-14at10.06.11PM1.jpg)
