@@ -17,7 +17,7 @@ This project presents an interactive Tableau dashboard built using Netflix Movie
 
 🔍 Interactive filters for dynamic analysis
 
-🛠** Tools & Technologies Used**
+**🛠 Tools & Technologies Used**
 
 Tableau Public – for visualization and dashboard creation
 
